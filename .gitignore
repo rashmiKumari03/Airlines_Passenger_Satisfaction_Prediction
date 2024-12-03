@@ -125,7 +125,7 @@ celerybeat.pid
 .env
 .venv
 env/
-airline_satisfaction/
+airline_satisfaction_env/
 venv/
 ENV/
 env.bak/
